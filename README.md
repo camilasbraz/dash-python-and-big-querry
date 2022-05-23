@@ -1,6 +1,6 @@
 # dash-python-and-big-query
 ### How to connect a table in Google Cloud Big Query to your dash app
-
+<!-- Como conectar no flask: https://gist.github.com/antoniocachuan/07dd96e38cb6fca56e39ddabb1438425 -->
 
 I was working on a dash app that required password access and had different levels of access and I decided to manage that using SQL.
 Since I was hosting it on Google Cloud Platform, it made sense to use big query to make that happen. Also, big query is extremely cheap (in contrast
